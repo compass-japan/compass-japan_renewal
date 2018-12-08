@@ -1,0 +1,64 @@
+.productsTable{
+	padding-bottom:30px;
+}
+#products{
+	width:90%;
+	margin:auto;
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+	padding-top:30px;
+}
+.productArea{
+	margin-left:50px;
+	margin:auto;
+	text-align:left;
+	height:180px;
+	width:85%;
+	border-bottom:dotted 2px #ccc;
+	padding-top:30px;
+	display: table;
+}
+.neoHEMSImage{
+	float:left;
+}
+.productLine{
+	float:left;
+	height:100%;
+	display: table;
+}
+.productLine a{
+	text-decoration:none;
+}
+
+.productInLine{
+	display: table-cell;
+	vertical-align: middle;
+}
+.productIcon{
+	float:left;
+	padding-top:3px;
+}
+.productName{
+	color:#333;
+	text-decoration:none;
+}
+.productName2{
+	position:relative;
+	font-size:14px;
+	top:40px;
+}
+.neoBEMSImage{
+	float:left;
+}
+
+.mimamoriImage{
+	float:left;
+}
+.spaImage{
+	float:left;
+}
+.emanegeImage{
+	float:left;
+}
+

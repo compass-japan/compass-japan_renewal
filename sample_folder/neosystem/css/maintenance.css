@@ -1,0 +1,18 @@
+.maintenanceTable{
+	padding-bottom:30px;
+}
+#maintenanceTitle{
+	width:90%;
+	margin:auto;
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+	padding-top:30px;
+}
+
+#maintenanceArea{
+	width:80%;
+	margin:auto;
+	margin-top:30px;
+	font-size:13px;
+}

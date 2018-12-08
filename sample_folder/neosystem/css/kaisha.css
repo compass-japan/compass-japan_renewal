@@ -1,0 +1,49 @@
+#philosophy{
+	width:90%;
+	margin:auto;
+
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+}
+#philosophyOutLine{
+	width:800px;
+	margin-left:50px;
+	padding-top:40px;
+	padding-bottom:30px;
+}
+#overview{
+	width:90%;
+	margin:auto;
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+	padding-top:30px;
+
+}
+#overviewTable{
+	margin:auto;
+	padding-top:40px;
+	margin-bottom:80px;
+}
+th{
+	width:100px;
+}
+.got{
+	font-size:14px;
+}
+#history{
+	width:90%;
+	margin:auto;
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+	padding-top:30px;
+
+}
+#historyTable{
+	margin:auto;
+	padding-top:40px;
+	margin-bottom:80px;
+
+}

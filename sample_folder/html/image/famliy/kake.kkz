@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<ArrayOfClsPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>0</ID>
+    <LastName>井手</LastName>
+    <LastNameX />
+    <FirstName>良祐</FirstName>
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>..\Pictures\DJ.png</PhotoPath>
+    <BirthDay>1992-09-22T00:00:00</BirthDay>
+    <Death>false</Death>
+    <DeathDay />
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>O</Blood>
+    <Sex>1</Sex>
+    <SpouseID>-1</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>1</DadID>
+    <MamID>3</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode>3591142</ZipCode>
+    <Address>埼玉県</Address>
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:23:04.0653234+09:00</UpdateDT>
+    <X>704</X>
+    <Y>447</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>1</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>1</ID>
+    <LastName>井手</LastName>
+    <LastNameX />
+    <FirstName>太郎</FirstName>
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>photo\DefaultImage.gif</PhotoPath>
+    <BirthDay>1951-07-15T00:00:00</BirthDay>
+    <Death>false</Death>
+    <DeathDay />
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>不明</Blood>
+    <Sex>0</Sex>
+    <SpouseID>3</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>-1</DadID>
+    <MamID>-1</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode />
+    <Address />
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:25:03.2128034+09:00</UpdateDT>
+    <X>747</X>
+    <Y>261</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>3</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>2</ID>
+    <LastName>井手</LastName>
+    <LastNameX />
+    <FirstName>智樹</FirstName>
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>photo\DefaultImage.gif</PhotoPath>
+    <BirthDay>2015-07-15T00:00:00</BirthDay>
+    <Death>false</Death>
+    <DeathDay />
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>不明</Blood>
+    <Sex>0</Sex>
+    <SpouseID>-1</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>1</DadID>
+    <MamID>3</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode />
+    <Address />
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:24:05.2785629+09:00</UpdateDT>
+    <X>552</X>
+    <Y>446</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>4</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>3</ID>
+    <LastName>井手</LastName>
+    <LastNameX />
+    <FirstName>良子</FirstName>
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>photo\DefaultImage.gif</PhotoPath>
+    <BirthDay>1952-07-15T00:00:00</BirthDay>
+    <Death>false</Death>
+    <DeathDay />
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>不明</Blood>
+    <Sex>0</Sex>
+    <SpouseID>-1</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>4</DadID>
+    <MamID>5</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode />
+    <Address />
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:39:32.9268435+09:00</UpdateDT>
+    <X>511</X>
+    <Y>257</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>5</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>4</ID>
+    <LastName>中本</LastName>
+    <LastNameX />
+    <FirstName>卓郎</FirstName>
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>photo\DefaultImage.gif</PhotoPath>
+    <BirthDay>1926-07-15T00:00:00</BirthDay>
+    <Death>false</Death>
+    <DeathDay />
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>不明</Blood>
+    <Sex>0</Sex>
+    <SpouseID>5</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>-1</DadID>
+    <MamID>-1</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode />
+    <Address />
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:34:26.084739+09:00</UpdateDT>
+    <X>604</X>
+    <Y>91</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>6</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>5</ID>
+    <LastName>中本</LastName>
+    <LastNameX />
+    <FirstName>政美</FirstName>
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>photo\DefaultImage.gif</PhotoPath>
+    <BirthDay>1927-05-19T00:00:00</BirthDay>
+    <Death>false</Death>
+    <DeathDay />
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>不明</Blood>
+    <Sex>0</Sex>
+    <SpouseID>-1</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>-1</DadID>
+    <MamID>-1</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode />
+    <Address />
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:30:52.6027097+09:00</UpdateDT>
+    <X>419</X>
+    <Y>91</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>7</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+  <clsPerson>
+    <Version>2.1.4</Version>
+    <ID>6</ID>
+    <LastName />
+    <LastNameX />
+    <FirstName />
+    <FirstNameX />
+    <Horizontal>false</Horizontal>
+    <NickName />
+    <HideNickName>false</HideNickName>
+    <PhotoPath>photo\DefaultImage.gif</PhotoPath>
+    <BirthDay>2015-07-15T00:00:00</BirthDay>
+    <Death>true</Death>
+    <DeathDay>2015/07/15</DeathDay>
+    <HideAge>false</HideAge>
+    <UnknownBirthDay>false</UnknownBirthDay>
+    <Blood>不明</Blood>
+    <Sex>0</Sex>
+    <SpouseID>-1</SpouseID>
+    <LinePercentSpouse>50</LinePercentSpouse>
+    <DadID>-1</DadID>
+    <MamID>-1</MamID>
+    <LinePercentDadMam>50</LinePercentDadMam>
+    <TypeOwn>-1</TypeOwn>
+    <ZipCode />
+    <Address />
+    <TelNumber />
+    <CellphoneNumber />
+    <UpdateDT>2015-07-15T13:36:00.2932843+09:00</UpdateDT>
+    <X>230</X>
+    <Y>173</Y>
+    <DispSize>2</DispSize>
+    <ZOrder>8</ZOrder>
+    <Tag>1</Tag>
+  </clsPerson>
+</ArrayOfClsPerson>
+<FileProperty>
+<FrameX>853</FrameX>
+<FrameY>573</FrameY>
+<PublicNo></PublicNo>
+<BackGroundPic></BackGroundPic>
+</FileProperty>
+

@@ -1,0 +1,174 @@
+html{
+	width:100%;
+	height:100%;
+}
+body {
+	width:100%;
+	height:100%;
+	margin: 0 !important;
+}
+
+#mainArea{
+	width:900px;
+	margin:auto;
+	height:100%;
+}
+#header{
+	height:10%;
+	-webkit-transition: 0.4s ;
+	transition: 0.4s ;
+	width:100%;
+	border-bottom: solid 1px #2c2255;
+	/*padding-top:100px;*/
+	position:relative;
+	top:80px;
+	display: table;
+}
+
+#contentsArea{
+	height:85%;
+	width:100%;
+	display: table;
+	text-align:right;
+}
+
+#contents{
+	padding-top:130px;
+}
+
+#contents2{
+	padding-top:150px;
+	margin-left:300px;
+	text-align:left;
+}
+
+#subTitle{
+	padding-top:30px;
+	padding-bottom:10px;
+	font-size:30px;
+	color:#999;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+}
+
+#description{
+	text-align:left;
+	float:left;
+}
+
+table{
+	text-align:left;
+	border-collapse:collapse;
+	margin-bottom:40px;
+}
+
+tr{
+	width:200px;
+	border-bottom:1px dashed #ccc;
+}
+
+th{
+	text-align:left;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+}
+
+.tab{
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+	text-align:left;
+	float:left;
+}
+
+#name{
+	padding-left:250px;
+}
+
+.outline{
+	font-size:14px;
+	line-height:20px;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+	color:#222;
+}
+
+.aboutOutLine{
+	font-size:14px;
+	line-height:20px;
+	height:280px;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+	color:#222;
+}
+
+.aboutOutLine2{
+	font-size:14px;
+	line-height:20px;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+	color:#222;
+}
+
+.businessOutLine{
+	padding-left: 20px;
+	line-height:25px;
+	float:left;
+	font-size: 14px;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+	color:#222;
+}
+
+#compassImage{
+	vertical-align:bottom;
+	display: table-cell;
+	width:350px;
+}
+
+#menu{
+float:left;
+	text-align:left;
+	margin-left:50px;
+}
+
+#HOME{
+	padding-top:160px;
+}
+
+.menuImage{
+	padding-top:20px;
+	height:35px;
+}
+#footer{
+	clear:both;
+	height:5%;
+	width:900px;
+	margin:auto;
+}
+
+#foot{
+	width:100%;
+	/*border-top: solid 1px #999;*/
+}
+
+#copyLight{
+	color:#aaa;
+	font-size:12px;
+	float:right;
+}
+
+#map{
+	border: solid 1px #999;
+	width:400px;
+	height: 300px;
+}
+
+/* 2018年追記 Contact改修 */
+.office_image,
+.office_image img {
+	width: 402px;
+}
+
+.office_image {
+	margin: 0;
+}
+
+.mapPosition{
+	width:400px;
+	height: 300px;
+	margin-bottom:50px;
+	border: 1px solid #333;
+}

@@ -1,0 +1,22 @@
+.contactTable{
+	padding-bottom:30px;
+}
+#contact{
+	width:80%;
+	margin:auto;
+	font-size:13px;
+}
+#accessTitle{
+	width:90%;
+	margin:auto;
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+	padding-top:30px;
+}
+#accessArea{
+	width:90%;
+	margin:auto;
+	margin-top:30px;
+	
+}

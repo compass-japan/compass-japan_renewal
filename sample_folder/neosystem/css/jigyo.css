@@ -1,0 +1,45 @@
+.resultsTable{
+	padding-bottom:30px;
+}
+#results{
+	width:90%;
+	margin:auto;
+	color:#333;
+	font-size:30px;
+	border-bottom:solid 1px #000;
+	padding-top:30px;
+
+}
+#resultArea{
+	width:800px;
+	margin:auto;
+}
+#resultListArea{
+	margin-bottom:30px;
+}
+#resultArea2{
+	clear:both;
+	font-size:14px;
+	color:#444;
+	width:80%;
+	margin:auto;
+	padding:20px;
+	background-color:#f6f6f6;
+}
+#resultImageArea{
+	width:30%;
+	float:left;
+}
+#resultImage{
+	margin:20px;
+}
+#resultListArea{
+	width:50%;
+	float:right;
+	text-align:left;
+}
+#resultList{
+	float:left;
+	font-size:13px;
+	list-style: none;
+}

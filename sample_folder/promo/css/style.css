@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+/*CSS reset*/
+html,body,h1,h2,p,div,ul,li,header,nav,section,footer
+{
+margin: 0;
+padding: 0;
+line-height: 1.0;
+font-family: "Hiragino Kaku Gothic ProN",Meiryo,sans-serif;}
+ul{
+list-style: none;}
+a{
+text-decoration: none;}
+img{
+border: none;
+vertical-align: bottom;}
+/*  /CSS reset  */
+
+/*  ページ全体体裁  */
+body{
+    background-color: #aaa ;
+}
+
+#container{
+    max-width: 986px ;
+    margin: 0 auto ;
+/*    border: 1px solid #000 ;*/
+}
+/*        */
+
+/*  ヘッダー  */
+header{
+    background-color: #aaa ;
+    overflow: hidden ;
+}
+header h1{
+    padding: 20px ;
+    font-family: 'Hind', sans-serif;
+    float: left ;
+    font-size: 50px ;
+}
+header p{
+    font-family: 'Hind', sans-serif;
+    float: right ;
+}
+header p a{
+    display: block ;
+    margin: 25px ;
+    padding: 10px ;
+    border: 1px solid #000 ;
+    color: chartreuse ;
+    background-color: #fff ;
+    text-shadow: 1px 1px 1px #000 ;
+    font-size: 26px ;
+}
+header p a:hover{
+    background-color: #000 ;
+}
+/*        */
+
+/*  ナビゲーション  */
+/*        */
+
+/*  メインボックス  */
+#mainBox{
+    width: 100% ;
+    margin: 0 auto ;
+}
+video{
+    max-width: 984px ;
+    height: auto ;
+}
+/*        */
+
+/*  左ボックス  */
+/*        */
+
+/*  右ボックス  */
+/*        */
+
+
+/*  フッター  */
+footer{
+    margin-top: 40px ;
+    margin-bottom: 10px ;
+    background-color: #aaa ;
+    text-align: center ;
+}
+/*        */

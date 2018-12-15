@@ -172,3 +172,21 @@ float:left;
 	margin-bottom:50px;
 	border: 1px solid #333;
 }
+
+@media screen and (max-width: 670px) {
+.mainArea{
+	width:100%;
+}
+#compassImage{
+	width:100%;
+}
+
+}
+@media screen and (max-width: 1000px) {
+	.mainArea{
+		width:100%;
+	}
+	#compassImage{
+		width:100%;
+	}
+}

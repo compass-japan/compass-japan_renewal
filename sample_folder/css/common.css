@@ -195,8 +195,8 @@ float:left;
 		max-width:600px;
 		margin-left:151px;
 	}
-	#subTitle span{
-	max-width:30px;
+	#subTitle{
+	font-size:25px;
 	}
 
 }

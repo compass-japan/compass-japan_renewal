@@ -78,7 +78,8 @@ th{
 }
 
 #name{
-	padding-left:250px;
+	float:right;
+	margin-right:5px;
 }
 
 .outline{
@@ -172,21 +173,43 @@ float:left;
 	margin-bottom:50px;
 	border: 1px solid #333;
 }
-
-@media screen and (max-width: 670px) {
-.mainArea{
-	width:100%;
-}
-#compassImage{
-	width:100%;
-}
-
-}
 @media screen and (max-width: 1000px) {
-	.mainArea{
+	#mainArea{
+		max-width:100%;
+	}
+	#header{
 		width:100%;
 	}
+
+	#compassImage{
+		max-width:350px;
+		margin:0 auto;
+	}
+	#contentsArea{
+		width:100%;
+	}
+	#menu{
+		margin:0;
+	}
+	#contents2{
+		max-width:600px;
+		margin-left:151px;
+	}
+	#subTitle span{
+	max-width:30px;
+	}
+
+}
+
+@media screen and (max-width: 375px) {
 	#compassImage{
 		width:100%;
+		height:auto;
+		display:inline-block;
+		text-align:center;
 	}
+	#contents2{
+		display:none;
+	}
+
 }

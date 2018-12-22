@@ -71,6 +71,31 @@ th{
 	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
 }
 
+h2{
+	color:gray;
+	font-size:25px;
+	padding-top:10px;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+}
+
+h3{
+	color:gray;
+	font-size:20px;
+	padding-top:10px;
+	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
+}
+
+ul, ol {
+  background: #fcfcfc;/*背景色*/
+  padding: 0.5em 0.5em 0.5em 2em;/*ボックス内の余白*/
+  border: solid 3px gray;/*線の種類 太さ 色*/
+}
+
+ul li, ol li {
+  line-height: 1.5; /*文の行高*/
+  padding: 0.5em 0; /*前後の文との余白*/
+}
+
 .tab{
 	font-family:  "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", "ŸàƒSƒVƒbƒN", YuGothic, "ƒƒCƒŠƒI", Meiryo, sans-serif;
 	text-align:left;
@@ -209,7 +234,18 @@ float:left;
 		text-align:center;
 	}
 	#contents2{
-		display:none;
+		padding-top: 50px;
+		max-width:350px;
+		margin:0 10px;
+		clear:both;
 	}
-
+#menu{
+	float:none;
+}
+.mapPosition{
+	width:350px;
+}
+iframe{
+	width:350px;
+}
 }

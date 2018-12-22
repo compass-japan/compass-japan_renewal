@@ -22,8 +22,31 @@ Webサービス、HP制作、ネットワークエンジニアを派遣し、エ
 <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <title>株式会社コンパスジャパン</title>
 </head>
-<body>
-  <div id="mainArea">
+<body> 
+      
+<header><!-- 　ハンバーガーメニュー　-->
+      
+
+   <div class="toggle">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span>menu</span>
+    </div>
+
+    <nav class="global_nav">
+      <ul>
+			 <li class="nav_li"><a href="index.html">Home</a></li>
+			 <li class="nav_li"><a href="about.html">Aboutus</a></li>
+			 <li class="nav_li"><a href="business.html">Business</a></li>
+			 <li class="nav_li"><a href="contact.html">Contact</a></li>
+        </ul>
+        </nav>
+
+</header> <!-- 　ハンバーガーメニュー　-->
+    
+    
+    <div id="mainArea">
   	<div id="header">
   			<h1><img id="compassImage" src="images/compassjapan.png" alt="株式会社コンパスジャパン"></h1>
   	</div><!--<div id="header">-->
@@ -52,6 +75,8 @@ Webサービス、HP制作、ネットワークエンジニアを派遣し、エ
   		</div><!--<div id="menu">-->
   	</div><!--<div id="contentsArea">-->
 
+      
+      
   	<div id="footer">
   		<div id="foot">
   			<div id="copyLight">Copyright &copy; 2015 Compass Japan co.ltd All Rights Reserved.</div>
@@ -59,5 +84,17 @@ Webサービス、HP制作、ネットワークエンジニアを派遣し、エ
   	</div>
   </div><!--<div id="mainArea">-->
 
+    <script>
+    $(function() {
+  $('.toggle').click(function() {
+    $(this).toggleClass("active");
+		if($(this).hasClass('active')) {
+			$('.global_nav').addClass('active');
+		} else {
+			$('.global_nav').removeClass('active');
+		}
+  });
+});
+    </script>
 </body>
 </html>
